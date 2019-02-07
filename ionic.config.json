@@ -2,9 +2,10 @@
   "name": "quiz",
   "integrations": {},
   "type": "ionic-angular",
-  "Proxies": [
+  "proxies": [
     {
-      "path": 
+      "path": "/v1",
+      "proxyUrl": "https://www.vivanuncios.com.mx"
     }
   ]
 }
