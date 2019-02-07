@@ -1,0 +1,10 @@
+{
+  "name": "quiz",
+  "integrations": {},
+  "type": "ionic-angular",
+  "Proxies": [
+    {
+      "path": 
+    }
+  ]
+}
